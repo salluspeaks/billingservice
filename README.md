@@ -6,6 +6,7 @@ Sample url: <host>:8003/billing/split
 
 Available apis:
 POST /billing/split : post the required details to get the bill split amount among customers as the response.
+Basic input validations are in place,with approriate response code.
 Sample Request:
 ```
 
